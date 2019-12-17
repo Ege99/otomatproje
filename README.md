@@ -1,3 +1,2 @@
 # otomatproje
-
-Otomat Projesi
+ 
